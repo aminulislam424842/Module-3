@@ -34,3 +34,10 @@ body {
   color: dimgray;
   margin-bottom: 15px;
 }
+.btn{
+  background-color: rgb(212, 127, 0) ;
+  border-radius: 14px;
+  padding: 10px 25px;
+  border: none;
+  font-weight: bold;
+}

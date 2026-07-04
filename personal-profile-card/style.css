@@ -7,20 +7,61 @@ body {
   background: linear-gradient(to right, #ff512f, #f09819);
   font-family: Arial, sans-serif;
   text-align: center;
+  margin-top: 250px;
+}
+.card{
+    width:350px;
+    margin:auto;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 20px gray;
+    padding: 30px;
 }
 .student-image {
   height: 150px;
   width: 150px;
   border-radius: 50%;
   border: 2px solid black;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .student-name {
-  color:black;
+  color: #2c1810;;
   font-size: 24px;
   font-weight: 700;
 }
 .student-title {
-  color: gray;
+  color: #78716C;
   font-size: 20px;
   font-weight: 500;
+}
+.Student-description {
+  color: #44403C;
+  font-size: 20px;
+  font-weight: 400;
+  width: 300px;
+  margin: 15px auto;
+}
+.student-info{
+color: #2e2b29;
+font-size: 22px;
+font-weight: 500;
+margin-top: 20px;
+}
+.email {
+  color :rgba(8, 3, 71, 0.808);
+}
+.phone{
+  font-weight: bold;
+}
+.institute , .semester{
+  color: #78716C;
+}
+.btn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #1D4ED8;
+    color: white;
+    font-weight: bold;
 }

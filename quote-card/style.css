@@ -16,3 +16,9 @@ body {
   text-align: center;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
+.title {
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #7c4a1e;
+}

@@ -102,3 +102,37 @@ body {
   line-height: 1.7;
 }
 
+/* ===== FEATURES SECTION ===== */
+.features-head {
+  text-align: center;
+  margin: 10px 0 20px;
+  font-size: 26px;
+}
+
+.product-features {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+
+.feature-card {
+  width: 150px;
+  background: #dde5ff;
+  border-radius: 15px;
+  padding: 20px 12px;
+  text-align: center;
+}
+
+.feature-title {
+  font-size: 16px;
+  margin-bottom: 6px;
+}
+
+.feature-text {
+  font-size: 13px;
+  color: #555;
+  line-height: 1.5;
+}
+

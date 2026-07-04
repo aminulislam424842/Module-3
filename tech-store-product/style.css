@@ -136,3 +136,22 @@ body {
   line-height: 1.5;
 }
 
+/* ===== BUTTON ===== */
+.btn {
+  display: block;
+  width: 250px;
+  margin: 0 auto;
+  padding: 15px;
+  color: #ffffff;
+  background-color: #2563eb;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.btn:hover {
+  background-color: #1e4fc4;
+}

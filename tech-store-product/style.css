@@ -1,0 +1,16 @@
+/* ===== RESET ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ===== BODY / BACKGROUND ===== */
+body {
+  background: linear-gradient(to right, rgb(58, 10, 119), rgb(44, 44, 197));
+  font-family: Arial, sans-serif;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+/* ===== CARD CONTAINER ===== */

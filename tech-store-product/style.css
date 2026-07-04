@@ -69,3 +69,36 @@ body {
   text-align: left;
 }
 
+.product-image {
+  width: 280px;
+  border-radius: 15px;
+  background: #f1f3f9;
+}
+
+.product-info {
+  text-align: left;
+}
+
+.product-name {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.product-price {
+  font-size: 22px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.product-price span {
+  color: #2563eb;
+  font-weight: bold;
+}
+
+.product-details {
+  font-size: 17px;
+  color: #555;
+  line-height: 1.7;
+}
+

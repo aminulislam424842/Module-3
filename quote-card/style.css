@@ -22,3 +22,9 @@ body {
   margin-bottom: 20px;
   color: #7c4a1e;
 }
+.quote{
+  font-size: 26px;
+  font-weight: 400;
+  color: rgb(102, 99, 99);
+  margin-bottom: 15px;
+}
